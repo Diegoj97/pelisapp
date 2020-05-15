@@ -1,0 +1,136 @@
+ .boton3d{
+        border:0;
+      color: #668428;
+        font-size: 28px;
+        font-family:sans-serif;
+        padding: 20px 30px;
+      background: #A5C956;
+      -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+      text-shadow: 1px 1px 1px #E1FEA6;
+      -moz-box-shadow: 0px 6px 0 #819F45;
+        -webkit-box-shadow: 0px 6px 0 #819F45;
+
+    }
+
+ .boton3d:active{
+    position:relative;
+     top:3px;
+    -moz-box-shadow:0px 3px 0 #819F45;
+    -webkit-box-shadow:0px 3px 0 #819F45
+    background: -moz-linear-gradient(center top , #A5C956 0%, #CDEB8E 100%) repeat scroll 0 0 transparent;
+     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a5c956), color-stop(100%,#cdeb8e));
+    }
+
+
+    .boton3dverpelis{
+        border:0;
+      color: hsl(207, 53%, 34%);
+        font-size: 20px;
+        font-family:sans-serif;
+        padding: 10px 10px;
+      background: rgb(86, 122, 201);
+      -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+      text-shadow: 1px 1px 1px rgb(166, 222, 254);
+      -moz-box-shadow: 0px 6px 0 rgb(69, 98, 159);
+        -webkit-box-shadow: 0px 6px 0 rgb(69, 108, 159);
+
+    }
+
+ .boton3dverpelis:active{
+    position:relative;
+     top:3px;
+    -moz-box-shadow:0px 3px 0 rgb(69, 78, 159);
+    -webkit-box-shadow:0px 3px 0 rgb(75, 69, 159)
+    background: -moz-linear-gradient(center top , #A5C956 0%, #CDEB8E 100%) repeat scroll 0 0 transparent;
+     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a5c956), color-stop(100%,#cdeb8e));
+    }
+  
+
+    .boton3dverpelis2{
+        float: right;
+        margin-top: -5%;
+        border:0;
+        color: #844228;
+        font-size: 20px;
+        font-family:sans-serif;
+        padding: 10px 10px;
+      background: rgb(201, 109, 86);
+      -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+      text-shadow: 1px 1px 1px rgb(254, 166, 173);
+      -moz-box-shadow: 0px 6px 0 rgb(159, 83, 69);
+        -webkit-box-shadow: 0px 6px 0 rgb(159, 69, 99);
+
+    }
+
+ .boton3dverpelis2:active{
+    position:relative;
+     top:3px;
+    -moz-box-shadow:0px 3px 0 rgb(159, 75, 69);
+    -webkit-box-shadow:0px 3px 0 rgb(159, 69, 99)
+    background: -moz-linear-gradient(center top , #A5C956 0%, #CDEB8E 100%) repeat scroll 0 0 transparent;
+     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a5c956), color-stop(100%,#cdeb8e));
+    }
+
+
+    #imagen{
+float: right;
+margin-top: -12%;
+margin-left: -30%;
+height: 150px;
+width: 150px;
+
+    }
+
+
+    .buscar{
+     
+      border:0;
+      color: #844228;
+      font-size: 20px;
+      font-family:sans-serif;
+      padding: 10px 10px;
+    background: rgb(201, 109, 86);
+    -moz-border-radius: 10px;
+      -webkit-border-radius: 10px;
+    text-shadow: 1px 1px 1px rgb(254, 166, 173);
+    -moz-box-shadow: 0px 6px 0 rgb(159, 83, 69);
+      -webkit-box-shadow: 0px 6px 0 rgb(159, 69, 99);
+
+  }
+
+.buscar:active{
+  position:relative;
+   top:3px;
+  -moz-box-shadow:0px 3px 0 rgb(159, 75, 69);
+  -webkit-box-shadow:0px 3px 0 rgb(159, 69, 99)
+  background: -moz-linear-gradient(center top , #A5C956 0%, #CDEB8E 100%) repeat scroll 0 0 transparent;
+   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a5c956), color-stop(100%,#cdeb8e));
+  }
+
+
+  .buscar2{
+    border:0;
+  color: hsl(207, 53%, 34%);
+    font-size: 20px;
+    font-family:sans-serif;
+    padding: 10px 10px;
+  background: rgb(86, 122, 201);
+  -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+  text-shadow: 1px 1px 1px rgb(166, 222, 254);
+  -moz-box-shadow: 0px 6px 0 rgb(69, 98, 159);
+    -webkit-box-shadow: 0px 6px 0 rgb(69, 108, 159);
+
+}
+
+.buscar2:active{
+position:relative;
+ top:3px;
+-moz-box-shadow:0px 3px 0 rgb(69, 78, 159);
+-webkit-box-shadow:0px 3px 0 rgb(75, 69, 159)
+background: -moz-linear-gradient(center top , #A5C956 0%, #CDEB8E 100%) repeat scroll 0 0 transparent;
+ background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a5c956), color-stop(100%,#cdeb8e));
+}
